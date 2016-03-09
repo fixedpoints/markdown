@@ -6,6 +6,10 @@ $$a=b$$
 [github](www.github.com)  
 ![][1]  
 ![][2]  
+![][2]  
+![][2]  
+![][3]
 
 [1]: http://latex.codecogs.com/gif.latex?\\prod%20\(n_{i}\)+1  
-[2]: http://latex.codecogs.com/gif.latex?\\[a+b\]
+[2]: http://latex.codecogs.com/gif.latex?\\[a+b\]  
+[3]: http://latex.codecogs.com/gif.latex?\\[a+b+c\] 
