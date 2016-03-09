@@ -8,4 +8,4 @@ $$a=b$$
 ![][2]  
 
 [1]: http://latex.codecogs.com/gif.latex?\\prod%20\(n_{i}\)+1  
-[2]: http://latex.codecogs.com/gif.latex?$$prod%20\(n_{i}\)+2$$  
+[2]: http://latex.codecogs.com/gif.latex?\\prod%20\(n_{i}\)+2  
