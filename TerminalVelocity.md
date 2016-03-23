@@ -1,6 +1,6 @@
 ###Terminal Velocity
 If the velocity of an obeject obeys an equation of the form:  
-<center>2</center>  
+<center></center>2  
 ![][1]
 
 [1]: http://latex.codecogs.com/gif.latex?\\\frac{dv}{dt}=a-bv  
