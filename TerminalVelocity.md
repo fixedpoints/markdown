@@ -1,7 +1,7 @@
 ###Terminal Velocity
 If the velocity of an obeject obeys an equation of the form:  
 <center></center>![][1]  
-
+![][1]
 ![][2]
 
 [1]: http://latex.codecogs.com/gif.latex?\\\frac{dv}{dt}=a-bv  
